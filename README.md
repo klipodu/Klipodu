@@ -44,6 +44,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img alt="Static Badge" src="https://img.shields.io/badge/Shuffle-FA710A?style=for-the-badge">
     <img alt="Static Badge" src="https://img.shields.io/badge/TheHive-F2D130?style=for-the-badge">
     <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Rapid7-FF6C37?style=for-the-badge&logo=Rapid7&logoColor=white" />
+
 
 </div>
 
