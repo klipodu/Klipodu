@@ -10,12 +10,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | Detection Lab|
-| Network Traffic Monitoring and Attack Detection | Detection Lab|
 | Security Automation with Shuffle SOAR         | <a href="https://github.com/klipodu/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | <a href="https://github.com/klipodu/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/klipodu/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/klipodu/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
+| SIEM Implementation and Log Analysis          | In Process|
+| Network Traffic Monitoring and Attack Detection | In Process|
 
 ## Tools
 <!--[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]-->
@@ -57,5 +57,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
 - SOC Automation Project
+- Detection Lab
