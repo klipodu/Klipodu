@@ -14,8 +14,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | <a href="https://github.com/klipodu/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href="https://github.com/klipodu/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>
 | Scripting and Automation for Threat Mitigation | <a href="https://github.com/klipodu/SOC-Automation-Lab/blob/main/README.md">SOC Automation Lab</a>|
-| SIEM Implementation and Log Analysis          | In Process|
-| Network Traffic Monitoring and Attack Detection | In Process|
+| Windows Server Administration                 | <a href="https://github.com/klipodu/Active-Directory/blob/main/README.md">Active Directory</a>|
+| Splunk                                        | <a href="https://github.com/klipodu/Active-Directory/blob/main/README.md">Active Directory</a>|
 
 ## Tools
 <!--[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]-->
@@ -23,7 +23,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DHCP-FFDD00?&style=for-the-badge&logo=DHCP&logoColor=white" />
     <img src="https://img.shields.io/badge/-DNS-00A4EF?&style=for-the-badge&logo=DNS&logoColor=white" />
 
 </div>
